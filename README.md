@@ -6,12 +6,12 @@ It's a simple python package that prints hello world!
 ## PIP install
 
 1. Test\prerelease
-https://test.pypi.org/project/azhelloworldpackage/
-`pip install -i https://test.pypi.org/simple/ azhelloworldpackage`
+https://test.pypi.org/project/btshelloworldpkg/
+`pip install -i https://test.pypi.org/simple/ btshelloworldpkg`
 
 2. Production 
-https://pypi.org/project/azhelloworldpackage/
-`pip install azhelloworldpackage`
+https://pypi.org/project/btshelloworldpkg/
+`pip install btshelloworldpkg`
 
 
 ## Test locally from source code
@@ -43,7 +43,7 @@ https://pypi.org/project/azhelloworldpackage/
 `pip install --user --upgrade setuptools wheel`
 `pip install --user --upgrade twine`
 
-4. Rename azhelloworldpackage, your package name can contains letters, numbers, _ , and -. It also must not already taken on pypi.org
+4. Rename btshelloworldpkg, your package name can contains letters, numbers, _ , and -. It also must not already taken on pypi.org
 you need to rename `name` in `setup.py` file and rename the folder structure
 `
 
