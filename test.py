@@ -1,3 +1,3 @@
-import azhelloworldpackage as h
+import btshelloworldpkg as h
 
 h.helloworld()
